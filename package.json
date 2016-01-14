@@ -1,0 +1,20 @@
+{
+  "name": "lite-server-learn",
+  "version": "1.0.0",
+  "description": "Learning to create a lite-server based on the one created by Tapio Vierros.",
+  "keywords": [
+    "front-end",
+    "development",
+    "server",
+    "http"
+  ],
+  "bin": {
+    "live-server-demo": "./live-server-demo.js"
+  },
+  "dependencies": {
+	  "colors" : "latest",
+	  "object-assign": "^2.0.0"
+  },
+  "author": "Amit Lalwani",
+  "license": "ISC"
+}
